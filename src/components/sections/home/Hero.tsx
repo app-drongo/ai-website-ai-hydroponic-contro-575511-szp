@@ -18,7 +18,7 @@ const DEFAULT_HERO = {
   secondaryCtaText: 'Technical Specs',
   secondaryCtaHref: '/specifications',
   videoThumbnail:
-    'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop&crop=center',
+    'https://media.istockphoto.com/id/859371624/photo/smart-agriculture-concept-agronomist-or-farmer-use-artificial-intelligence-and-augmented.webp?a=1&b=1&s=612x612&w=0&k=20&c=aqNykV9yyEQJUXDDMwhghZk58hKAW4gBaAduGVkQb5A=',
   videoAlt: 'AI Greenhouse Control System Dashboard',
   features: [
     'Real-time AI optimization',
